@@ -31,6 +31,6 @@ you have to pay attention, that the target name should be the verilog file name 
 
 **If you find this usefull, please, contribute!**
 
-**[Paypal](https://www.paypal.com/cgi-bin/webscr?business=afarias.arthur@gmail.com&cmd=_xclick&currency_code=EUR&amount=25&item_name=25€ Contribution)**
+**[Paypal](https://bit.ly/3XmD69g)**
 
--- **[Bitcoin](bitcoin:bc1q....?amount=0.00025)**
+-- **[Bitcoin](bitcoin:bc1q5w2mm2fwg3q35pkulvv6t80c88vlgnhujcswlz?amount=0.00025)**
